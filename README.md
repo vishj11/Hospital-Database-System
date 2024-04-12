@@ -12,4 +12,4 @@ Steps to Run:
 * Run the login.py file
 * Fill in the credentials (user: admin, pass: 2020)
 
-<img src="C\Users\Asus\Desktop\HMS 1.png" width=200 height=200>
+<img src="C:\Users\Asus\Desktop\HMS 1.png" width=200 height=200>
