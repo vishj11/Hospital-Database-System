@@ -6,8 +6,8 @@
 ### Steps to Run ; 
 - Intall a code-editor pref. VS Code  
 - Install python  
-- Try running `pip -V` or `python -V` in the terminal  
-- Next, install the required library `pip3 install custom tkinter, docs: https://github.com/TomSchimansky/CustomTkinter  
+- Try running pip -V or python -V in the terminal  
+- Next, install the required library pip3 install custom tkinter, docs: https://github.com/TomSchimansky/CustomTkinter  
 - Run the login.py file  
 - Fill in the credentials (user: admin, pass: 2020)     
  <img src="https://user-images.githubusercontent.com/102300255/188245177-bb8d8cfd-0efa-4456-a7da-3c31ac07f9e1.png" alt="drawing" width="300"/>  
