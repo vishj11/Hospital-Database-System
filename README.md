@@ -12,7 +12,7 @@ Steps to Run:
 * Run the login.py file
 * Fill in the credentials (user: admin, pass: 2020)
 
-![HMS 1](C:\Users\Asus\Desktop\HMS 1.png)
+![HMS 1]("C:\Users\Asus\Desktop\HMS 1.png")
 ![HMS 2](C:\Users\Asus\Desktop\HMS 2.png)
 ![HMS 3](C:\Users\Asus\Desktop\HMS 3.png)
 
