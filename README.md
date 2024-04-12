@@ -12,10 +12,8 @@ Steps to Run:
 * Run the login.py file
 * Fill in the credentials (user: admin, pass: 2020)
 
-![HMS 1](https://github.com/vishj11/Hospital-Database-System/assets/166241189/d9026f57-aeae-44d1-9b97-7ec2f904b26c)
-![HMS 2](https://github.com/vishj11/Hospital-Database-System/assets/166241189/d7f41f36-a5a0-4c10-b8c2-187bc46fc2ae)
-![HMS 3](https://github.com/vishj11/Hospital-Database-System/assets/166241189/781a3430-2054-4423-a871-9386894233fb)
+![HMS 1](C:\Users\Asus\Desktop\HMS 1.png)
+![HMS 2](C:\Users\Asus\Desktop\HMS 2.png)
+![HMS 3](C:\Users\Asus\Desktop\HMS 3.png)
 
-<img src="HMS 1.png" alt="drawing" width="200"/>
-<img src="HMS 2.png" alt="drawing" width="200"/>
-<img src="HMS 3.png" alt="drawing" width="200"/>
+<img src="C:\Users\Asus\Desktop\HMS 1.png" width=200 height=200>
